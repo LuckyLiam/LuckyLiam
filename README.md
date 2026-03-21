@@ -20,14 +20,6 @@
 
 ---
 
-### 📊 Power Level
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckyLiam&show_icons=true&theme=tokyonight" alt="Stats" height="160" />
-</p>
-
----
-
-
 <p align="right">
   <i>"Anyway, the compiler never lies."</i> —— 👾
 </p>
