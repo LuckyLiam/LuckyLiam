@@ -6,7 +6,7 @@
 
 ### Profile 
 - **Role**: Full-Stack Developer
-- **Setup**: MacBook M-series + VsCode + Claude Code
+- **Setup**: MacBook M-series + VS Code + Claude Code
 
 ---
 
