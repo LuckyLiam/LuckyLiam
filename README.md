@@ -5,8 +5,7 @@
 ---
 
 ### Profile 
-- **Role**: Full-Stack Developer
-- **Setup**: MacBook M-series + VS Code + Claude Code
+- **Role**: Pen Tester
 
 ---
 
